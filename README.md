@@ -1,2 +1,2 @@
 # NomeCompleto
-exercício programação PC1
+exercício aula PC1
